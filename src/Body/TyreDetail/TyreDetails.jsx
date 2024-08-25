@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Card, Button, Row, Col, Container, Form, InputGroup } from 'react-bootstrap';
+import { Card, Button, Row, Col, Container} from 'react-bootstrap';
 import Tyreimg from '../../assets/Tyre-image.webp'
 const TyreCard = ({ tyre }) => (
   <Col sm={3} className="" style={{marginBottom:"20px"}}>
