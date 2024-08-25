@@ -1,6 +1,5 @@
 
 import React from 'react';
-import { Carousel } from 'react-bootstrap';
 import { MdLocationOn } from "react-icons/md";
 import { IoIosTime } from "react-icons/io";
 import Pic1 from "../../assets/pic1.jpg";
