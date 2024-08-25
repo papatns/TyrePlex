@@ -1,0 +1,82 @@
+*{
+  margin: 0;
+  box-sizing: border-box;
+}
+.bg-custom{
+  background-color: #f5f6f9;
+}
+.items-signin{
+  list-style-type: none; 
+  padding: 0;            
+  margin: 0;
+  
+}
+.items-signin a{
+  text-decoration: none;
+}
+.custom-gap{
+  gap: 300px;
+}
+.icon{
+  width: 30px;
+  height: 30px;
+}
+.top-left{
+  width: 50%;
+}
+.top-right{
+  width: 50%;
+}
+.review-card{
+  width: 600px;
+  /* border: 1px solid red; */
+}
+.location-icon1{
+  width: 30px;
+  height: 30px;
+  margin-right: 3px;
+}
+.location-icon{
+  width: 20px;
+  height: 20px;
+  margin-right: 3px;
+}
+.reviews {
+  max-width: 100%;
+  overflow: auto; /* Horizontal scrolling */
+   /* No vertical scroll */
+ /* Keep content in one line */
+}
+
+.reviews::-webkit-scrollbar {
+  display: none; /* Safari and Chrome */
+}
+
+.reviews {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
+.custom{
+  background-color: white;
+  width: 400px;
+  height: 300px;
+  margin-bottom: 30px;
+}
+.custom-list{
+  list-style: none;
+}
+.faq{
+  background-color: #FFEAAA;
+}
+
+.custom-shadow {
+  box-shadow: 0 0 2px 2px rgb(238, 198, 2); /* Adds a yellow border shadow around the input field */
+}
+.custom-hover{
+  color: rgb(169, 167, 167);
+}
+.custom-hover:hover {
+   color: rgb(30, 0, 255);
+}
+
+
