@@ -9,7 +9,7 @@ import ApolloLOGO from "../../assets/Apollo-Logo.png"
 // import MRFLOGO from "../../assets/MRF-Logo.png"
 // import MRFLOGO from "../../assets/MRF-Logo.png"
 // import MRFLOGO from "../../assets/MRF-Logo.png"
-// import { CardHeader } from './react-bootstrap';
+import { CardHeader } from './react-bootstrap';
 
 
 const CardSlider = () => {
